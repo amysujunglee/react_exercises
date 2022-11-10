@@ -1,2 +1,2 @@
 # react_exercises
-React Exercises for beginners
+React exercises for beginners
